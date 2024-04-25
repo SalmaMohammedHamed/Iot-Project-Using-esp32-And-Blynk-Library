@@ -16,9 +16,9 @@ char auth[] = BLYNK_AUTH_TOKEN;
 char ssid[] = "YourNetworkName";
 char pass[] = "YourNetworkPassword";
 BlynkTimer timer;
-//relay bin
+//relay pin
 #define RelayPin 13
-//motor bins
+//motor pins
 #define ClkWiseBin 18
 #define AntiClkWiseBin 19
 
